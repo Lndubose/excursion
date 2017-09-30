@@ -1,3 +1,13 @@
 body {
   font-family: Verdana;
+  background-color: black;
+}
+
+.soon {
+  color: Aquamarine;
+  font-size: 16px
+}
+
+video {
+  text-align: center;
 }
